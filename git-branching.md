@@ -1,4 +1,4 @@
-##Git Branching & Merging
+## Git Branching & Merging
 
 1.  Goto directory e:\my-repos or c:\my-repos
 
