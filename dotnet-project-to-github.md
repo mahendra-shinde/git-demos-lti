@@ -26,7 +26,7 @@
 NOTE: For those who got ERROR in push from VS2017, the solution is:
 
 -   Close VS
--   Delete (or rename) folder "C:\Program Files (x86)\Microsoft Visual Studio\2017{Community|Professional|Enterprise}\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git"
+-   Delete (or rename) folder "C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\CommonExtensions\Microsoft\TeamFoundation\Team Explorer\Git"
 -   Open VS and try to push a commit to a remote repo!
 
 View original solution from [this link](https://developercommunity.visualstudio.com/content/problem/308898/error-encountered-while-pushing-to-the-remote-repo-3.html)
