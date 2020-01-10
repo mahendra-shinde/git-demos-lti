@@ -1,7 +1,7 @@
 ## Azure WebApp
 
 1.  Login into portal.azure.com
-2.  Click `New resource` > `Web` > `WebApp`
+2.  Click `Create resource` > `Web` > `WebApp`
 3.  Enter following details:
     ```yml
     ResourceGroup: mygroup1 [Use Create New link]
